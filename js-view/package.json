@@ -1,0 +1,14 @@
+{
+  "name": "js-view",
+  "version": "1.0.0",
+  "description": "\"web view\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
